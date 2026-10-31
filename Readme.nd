@@ -1,0 +1,109 @@
+# 🧬 Biological Dataset Selection
+## Lung Cancer Gene Expression Analysis (GSE10072)
+
+**Internship:** SWYNEX  
+**Task:** Task 1 – Biological Dataset Selection  
+**Domain:** Bioinformatics  
+**Student:** Harinadh
+
+---
+
+## 📌 1. Introduction
+
+Biological datasets contain biological information used for scientific research and computational analysis.
+
+In this project, I selected a public gene expression dataset related to lung cancer from the NCBI Gene Expression Omnibus (GEO) database.
+
+## 📊 2. Dataset Information
+
+| Parameter | Details |
+|---|---|
+| Dataset ID | GSE10072 |
+| Database | NCBI GEO |
+| Organism | Homo sapiens |
+| Research Area | Lung Adenocarcinoma |
+| Technology | Microarray |
+| Platform | GPL96 |
+| Total Samples | 107 |
+| Tumour Samples | 58 |
+| Normal Samples | 49 |
+
+**Dataset Link:**  
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE10072
+
+## 🔬 3. Dataset Description
+
+The GSE10072 dataset contains gene expression profiles from human lung adenocarcinoma and non-tumour lung tissue samples.
+
+It helps researchers understand differences in gene expression between cancerous and non-cancerous tissues.
+
+## 🎯 4. Research Question
+
+Which genes show different expression patterns between lung adenocarcinoma tissues and normal lung tissues?
+
+## 🎯 5. Objectives
+
+- Study lung cancer-related gene expression.
+- Compare tumour and normal samples.
+- Identify differentially expressed genes.
+- Understand molecular changes associated with lung cancer.
+- Explore potential cancer biomarkers.
+
+## 💻 6. Applications in Bioinformatics
+
+1. Differential gene expression analysis.
+2. Cancer biomarker identification.
+3. Molecular pathway analysis.
+4. Disease mechanism studies.
+5. Drug discovery research.
+
+## ⚙️ 7. Proposed Workflow
+
+```text
+NCBI GEO Dataset
+       |
+       v
+Data Collection
+       |
+       v
+Data Preprocessing
+       |
+       v
+Quality Checking
+       |
+       v
+Gene Expression Analysis
+       |
+       v
+Tumour vs Normal Comparison
+       |
+       v
+Identification of
+Differentially Expressed Genes
+       |
+       v
+Biological Interpretation
+```
+
+## 📈 8. Expected Outcome
+
+- Understanding gene expression patterns.
+- Identifying genes associated with lung cancer.
+- Comparing tumour and normal tissue samples.
+- Understanding the importance of bioinformatics in cancer research.
+
+*Note: These are expected outcomes; computational analysis has not yet been performed.*
+
+## 📝 9. Conclusion
+
+The GSE10072 dataset is a useful public biological resource for bioinformatics research. It provides gene expression information from lung tumour and non-tumour tissues. Analysis of this dataset can help researchers understand molecular changes associated with lung cancer.
+
+## 📚 10. References
+
+- NCBI Gene Expression Omnibus (GEO)
+- GSE10072: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE10072
+- NCBI: https://www.ncbi.nlm.nih.gov/
+
+---
+
+**Project completed as part of SWYNEX Internship – Task 1.**
